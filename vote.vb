@@ -26,7 +26,7 @@ Public Class vote
 
         End If
         If Lisk.RadioButton3.Checked = True Then
-            url1 = "https://lisk.liskwallet.tech/"
+            url1 = "http://127.0.0.1:4001"
 
         End If
         If Lisk.RadioButton4.Checked = True Then

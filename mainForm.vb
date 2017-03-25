@@ -104,7 +104,7 @@ Public Class Lisk
 
         End If
         If RadioButton3.Checked = True Then
-            url1 = "https://lisk.liskwallet.tech/"
+            url1 = "http://127.0.0.1:4001/"
 
         End If
         If RadioButton4.Checked = True Then
@@ -280,7 +280,7 @@ Public Class Lisk
 
         End If
         If RadioButton3.Checked = True Then
-            url = "https://lisk.liskwallet.tech/api/transactions"
+            url = "http://127.0.0.1:4001/api/transactions"
 
         End If
         If RadioButton4.Checked = True Then
@@ -667,7 +667,7 @@ fooerror:
 
         End If
         If RadioButton3.Checked = True Then
-            url = "https://lisk.liskwallet.tech/api/transactions"
+            url = "http://127.0.0.1:4001/api/transactions"
 
         End If
         If RadioButton4.Checked = True Then
@@ -1104,7 +1104,7 @@ fooerror:
 
         End If
         If RadioButton3.Checked = True Then
-            url = "https://lisk.liskwallet.tech/api/accounts/delegates"
+            url = "http://127.0.0.1:4001/api/accounts/delegates"
 
         End If
         If RadioButton4.Checked = True Then
@@ -1450,7 +1450,7 @@ Fooerror2:
 
         End If
         If RadioButton3.Checked = True Then
-            url = "https://lisk.liskwallet.tech/api/accounts/delegates"
+            url = "http://127.0.0.1:4001/api/accounts/delegates"
 
         End If
         If RadioButton4.Checked = True Then
@@ -2097,7 +2097,7 @@ fooerror:
 
         On Error Resume Next
         'request3 = DirectCast(WebRequest.Create("http://api.arknode.net:8000/api/loader/status/sync"), HttpWebRequest)
-        request3 = DirectCast(WebRequest.Create("https://lisk.liskwallet.tech/api/loader/status/sync"), HttpWebRequest)
+        request3 = DirectCast(WebRequest.Create("http://127.0.0.1:4001/api/loader/status/sync"), HttpWebRequest)
 
         response3 = DirectCast(request3.GetResponse(), HttpWebResponse)
         reader3 = New StreamReader(response3.GetResponseStream())
@@ -2302,7 +2302,7 @@ fooerror:
 
         End If
         If RadioButton3.Checked = True Then
-            url = "https://lisk.liskwallet.tech/api/multisignatures/sign"
+            url = "http://127.0.0.1:4001/api/multisignatures/sign"
 
         End If
         If RadioButton4.Checked = True Then
@@ -3204,7 +3204,7 @@ fooerror:
 
         End If
         If RadioButton3.Checked = True Then
-            url = "https://lisk.liskwallet.tech/api/accounts/open"
+            url = "http://127.0.0.1:4001/api/accounts/open"
 
         End If
         If RadioButton4.Checked = True Then
@@ -3514,7 +3514,7 @@ fooerror:
 
         End If
         If RadioButton3.Checked = True Then
-            url = "https://lisk.liskwallet.tech/api/delegates"
+            url = "http://127.0.0.1:4001/api/delegates"
 
         End If
         If RadioButton4.Checked = True Then
@@ -3674,7 +3674,7 @@ fooerror:
 
         End If
         If RadioButton3.Checked = True Then
-            url = "https://lisk.liskwallet.tech/api/delegates"
+            url = "http://127.0.0.1:4001/api/delegates"
 
         End If
         If RadioButton4.Checked = True Then

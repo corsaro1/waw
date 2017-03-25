@@ -1,4 +1,4 @@
-WAW, a Windows Ark Wallet software relying on API calls on remote Lisk nodes for commands
+WAW, a Windows Ark Wallet software relying on API calls on remote ARK nodes for commands
 
 not just a simple ARK blockchain height checker.
 

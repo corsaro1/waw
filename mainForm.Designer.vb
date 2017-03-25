@@ -176,7 +176,6 @@ Partial Class Lisk
         Me.TextBox3.Name = "TextBox3"
         Me.TextBox3.Size = New System.Drawing.Size(100, 20)
         Me.TextBox3.TabIndex = 6
-        Me.TextBox3.Visible = False
         '
         'TextBox5
         '
@@ -263,7 +262,6 @@ Partial Class Lisk
         Me.RadioButton3.TabIndex = 32
         Me.RadioButton3.TabStop = True
         Me.RadioButton3.UseVisualStyleBackColor = True
-        Me.RadioButton3.Visible = False
         '
         'RadioButton4
         '
@@ -355,12 +353,11 @@ Partial Class Lisk
         Me.LinkLabel3.AutoSize = True
         Me.LinkLabel3.Location = New System.Drawing.Point(35, 225)
         Me.LinkLabel3.Name = "LinkLabel3"
-        Me.LinkLabel3.Size = New System.Drawing.Size(132, 13)
+        Me.LinkLabel3.Size = New System.Drawing.Size(110, 13)
         Me.LinkLabel3.TabIndex = 42
         Me.LinkLabel3.TabStop = True
         Me.LinkLabel3.Tag = ""
-        Me.LinkLabel3.Text = "https://lisk.liskwallet.tech/"
-        Me.LinkLabel3.Visible = False
+        Me.LinkLabel3.Text = "http://127.0.0.1:4001"
         '
         'LinkLabel4
         '
@@ -575,10 +572,9 @@ Partial Class Lisk
         Me.Label8.AutoSize = True
         Me.Label8.Location = New System.Drawing.Point(347, 224)
         Me.Label8.Name = "Label8"
-        Me.Label8.Size = New System.Drawing.Size(68, 13)
+        Me.Label8.Size = New System.Drawing.Size(24, 13)
         Me.Label8.TabIndex = 63
-        Me.Label8.Text = "phoenix1969"
-        Me.Label8.Visible = False
+        Me.Label8.Text = "you"
         '
         'Label9
         '

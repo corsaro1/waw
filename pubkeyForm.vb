@@ -80,7 +80,7 @@ Public Class pubkeyForm
 
             End If
             If Lisk.RadioButton3.Checked = True Then
-                url = "https://lisk.liskwallet.tech/api/multisignatures/"
+                url = "http://127.0.0.1:4001api/multisignatures/"
 
             End If
             If Lisk.RadioButton4.Checked = True Then
