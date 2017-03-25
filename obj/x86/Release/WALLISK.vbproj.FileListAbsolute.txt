@@ -1,0 +1,122 @@
+C:\ProgramData\github\wallisk\WALLISK\bin\Release\WALLISK.exe
+C:\ProgramData\github\wallisk\WALLISK\bin\Release\WALLISK.pdb
+C:\ProgramData\github\wallisk\WALLISK\bin\Release\WALLISK.xml
+C:\ProgramData\github\wallisk\WALLISK\bin\Release\Newtonsoft.Json.dll
+C:\ProgramData\github\wallisk\WALLISK\obj\x86\Release\WALLISK.vbprojResolveAssemblyReference.cache
+C:\ProgramData\github\wallisk\WALLISK\obj\x86\Release\WALLISK.Lisk.resources
+C:\ProgramData\github\wallisk\WALLISK\obj\x86\Release\WALLISK.Resources.resources
+C:\ProgramData\github\wallisk\WALLISK\obj\x86\Release\WALLISK.vbproj.GenerateResource.Cache
+C:\ProgramData\github\wallisk\WALLISK\obj\x86\Release\WALLISK.exe
+C:\ProgramData\github\wallisk\WALLISK\obj\x86\Release\WALLISK.xml
+C:\ProgramData\github\wallisk\WALLISK\obj\x86\Release\WALLISK.pdb
+C:\Users\All Users\visual studio\WALLISK\bin\Release\WALLISK.exe
+C:\Users\All Users\visual studio\WALLISK\bin\Release\WALLISK.pdb
+C:\Users\All Users\visual studio\WALLISK\bin\Release\WALLISK.xml
+C:\Users\All Users\visual studio\WALLISK\bin\Release\Newtonsoft.Json.dll
+C:\Users\All Users\visual studio\WALLISK\obj\x86\Release\WALLISK.vbprojResolveAssemblyReference.cache
+C:\Users\All Users\visual studio\WALLISK\obj\x86\Release\WALLISK.Lisk.resources
+C:\Users\All Users\visual studio\WALLISK\obj\x86\Release\WALLISK.Resources.resources
+C:\Users\All Users\visual studio\WALLISK\obj\x86\Release\WALLISK.vbproj.GenerateResource.Cache
+C:\Users\All Users\visual studio\WALLISK\obj\x86\Release\WALLISK.exe
+C:\Users\All Users\visual studio\WALLISK\obj\x86\Release\WALLISK.xml
+C:\Users\All Users\visual studio\WALLISK\obj\x86\Release\WALLISK.pdb
+C:\Users\All Users\visual studio\lavoro\WALLISK\bin\Release\WALLISK.exe
+C:\Users\All Users\visual studio\lavoro\WALLISK\bin\Release\WALLISK.pdb
+C:\Users\All Users\visual studio\lavoro\WALLISK\bin\Release\WALLISK.xml
+C:\Users\All Users\visual studio\lavoro\WALLISK\bin\Release\Newtonsoft.Json.dll
+C:\Users\All Users\visual studio\lavoro\WALLISK\obj\x86\Release\WALLISK.vbprojResolveAssemblyReference.cache
+C:\Users\All Users\visual studio\lavoro\WALLISK\obj\x86\Release\WALLISK.Lisk.resources
+C:\Users\All Users\visual studio\lavoro\WALLISK\obj\x86\Release\WALLISK.Resources.resources
+C:\Users\All Users\visual studio\lavoro\WALLISK\obj\x86\Release\WALLISK.vbproj.GenerateResource.Cache
+C:\Users\All Users\visual studio\lavoro\WALLISK\obj\x86\Release\WALLISK.exe
+C:\Users\All Users\visual studio\lavoro\WALLISK\obj\x86\Release\WALLISK.xml
+C:\Users\All Users\visual studio\lavoro\WALLISK\obj\x86\Release\WALLISK.pdb
+C:\Users\All Users\visual studio\lavoro\multisign\WALLISK\bin\Release\WALLISK.exe
+C:\Users\All Users\visual studio\lavoro\multisign\WALLISK\bin\Release\WALLISK.pdb
+C:\Users\All Users\visual studio\lavoro\multisign\WALLISK\bin\Release\WALLISK.xml
+C:\Users\All Users\visual studio\lavoro\multisign\WALLISK\bin\Release\Newtonsoft.Json.dll
+C:\Users\All Users\visual studio\lavoro\multisign\WALLISK\obj\x86\Release\WALLISK.vbprojResolveAssemblyReference.cache
+C:\Users\All Users\visual studio\lavoro\multisign\WALLISK\obj\x86\Release\WALLISK.pubkeyForm.resources
+C:\Users\All Users\visual studio\lavoro\multisign\WALLISK\obj\x86\Release\WALLISK.Lisk.resources
+C:\Users\All Users\visual studio\lavoro\multisign\WALLISK\obj\x86\Release\WALLISK.Resources.resources
+C:\Users\All Users\visual studio\lavoro\multisign\WALLISK\obj\x86\Release\WALLISK.vbproj.GenerateResource.Cache
+C:\Users\All Users\visual studio\lavoro\multisign\WALLISK\obj\x86\Release\WALLISK.exe
+C:\Users\All Users\visual studio\lavoro\multisign\WALLISK\obj\x86\Release\WALLISK.xml
+C:\Users\All Users\visual studio\lavoro\multisign\WALLISK\obj\x86\Release\WALLISK.pdb
+C:\Users\All Users\visual studio\lavoro\multisign\WALLISK\obj\x86\Release\WALLISK.cosignForm.resources
+C:\Users\fabrizio\Desktop\vs\WALLISK\bin\Release\WALLISK.exe.config
+C:\Users\fabrizio\Desktop\vs\WALLISK\obj\x86\Release\WALLISK.exe
+C:\Users\fabrizio\Desktop\vs\WALLISK\obj\x86\Release\WALLISK.xml
+C:\Users\fabrizio\Desktop\vs\WALLISK\obj\x86\Release\WALLISK.pdb
+C:\Users\fabrizio\Desktop\vs\WALLISK\bin\Release\WALLISK.exe
+C:\Users\fabrizio\Desktop\vs\WALLISK\bin\Release\WALLISK.pdb
+C:\Users\fabrizio\Desktop\vs\WALLISK\bin\Release\WALLISK.xml
+C:\Users\fabrizio\Desktop\vs\WALLISK\bin\Release\Newtonsoft.Json.dll
+C:\Users\fabrizio\Desktop\vs\WALLISK\obj\x86\Release\WALLISK.vbprojResolveAssemblyReference.cache
+C:\Users\fabrizio\Desktop\vs\WALLISK\obj\x86\Release\WALLISK.cosignForm.resources
+C:\Users\fabrizio\Desktop\vs\WALLISK\obj\x86\Release\WALLISK.pubkeyForm.resources
+C:\Users\fabrizio\Desktop\vs\WALLISK\obj\x86\Release\WALLISK.Lisk.resources
+C:\Users\fabrizio\Desktop\vs\WALLISK\obj\x86\Release\WALLISK.Resources.resources
+C:\Users\fabrizio\Desktop\vs\WALLISK\obj\x86\Release\WALLISK.vbproj.GenerateResource.Cache
+C:\Users\All Users\progetti\WALLISK\bin\Release\WALLISK.exe.config
+C:\Users\All Users\progetti\WALLISK\bin\Release\WALLISK.exe
+C:\Users\All Users\progetti\WALLISK\bin\Release\WALLISK.pdb
+C:\Users\All Users\progetti\WALLISK\bin\Release\WALLISK.xml
+C:\Users\All Users\progetti\WALLISK\bin\Release\Newtonsoft.Json.dll
+C:\Users\All Users\progetti\WALLISK\obj\x86\Release\WALLISK.cosignForm.resources
+C:\Users\All Users\progetti\WALLISK\obj\x86\Release\WALLISK.pubkeyForm.resources
+C:\Users\All Users\progetti\WALLISK\obj\x86\Release\WALLISK.Lisk.resources
+C:\Users\All Users\progetti\WALLISK\obj\x86\Release\WALLISK.Resources.resources
+C:\Users\All Users\progetti\WALLISK\obj\x86\Release\WALLISK.vbproj.GenerateResource.Cache
+C:\Users\All Users\progetti\WALLISK\obj\x86\Release\WALLISK.exe
+C:\Users\All Users\progetti\WALLISK\obj\x86\Release\WALLISK.xml
+C:\Users\All Users\progetti\WALLISK\obj\x86\Release\WALLISK.pdb
+C:\Users\All Users\progetti\lavoro temporaneo\002\WALLISK\bin\Release\Newtonsoft.Json.dll
+C:\Users\All Users\progetti\lavoro temporaneo\002\WALLISK\obj\x86\Release\WALLISK.vbproj.GenerateResource.Cache
+C:\Users\All Users\progetti\lavoro temporaneo\002\WALLISK\bin\Release\WALLISK.exe.config
+C:\Users\All Users\progetti\lavoro temporaneo\002\WALLISK\bin\Release\WALLISK.exe
+C:\Users\All Users\progetti\lavoro temporaneo\002\WALLISK\bin\Release\WALLISK.pdb
+C:\Users\All Users\progetti\lavoro temporaneo\002\WALLISK\bin\Release\WALLISK.xml
+C:\Users\All Users\progetti\lavoro temporaneo\002\WALLISK\obj\x86\Release\WALLISK.cosignForm.resources
+C:\Users\All Users\progetti\lavoro temporaneo\002\WALLISK\obj\x86\Release\WALLISK.pubkeyForm.resources
+C:\Users\All Users\progetti\lavoro temporaneo\002\WALLISK\obj\x86\Release\WALLISK.Lisk.resources
+C:\Users\All Users\progetti\lavoro temporaneo\002\WALLISK\obj\x86\Release\WALLISK.Resources.resources
+C:\Users\All Users\progetti\lavoro temporaneo\002\WALLISK\obj\x86\Release\WALLISK.vote.resources
+C:\Users\All Users\progetti\lavoro temporaneo\002\WALLISK\obj\x86\Release\WALLISK.exe
+C:\Users\All Users\progetti\lavoro temporaneo\002\WALLISK\obj\x86\Release\WALLISK.xml
+C:\Users\All Users\progetti\lavoro temporaneo\002\WALLISK\obj\x86\Release\WALLISK.pdb
+C:\Users\All Users\progetti\lavoro temporaneo\003\WALLISK\bin\Release\WALLISK.exe.config
+C:\Users\All Users\progetti\lavoro temporaneo\003\WALLISK\obj\x86\Release\WALLISK.exe
+C:\Users\All Users\progetti\lavoro temporaneo\003\WALLISK\obj\x86\Release\WALLISK.xml
+C:\Users\All Users\progetti\lavoro temporaneo\003\WALLISK\obj\x86\Release\WALLISK.pdb
+C:\Users\All Users\progetti\lavoro temporaneo\003\WALLISK\bin\Release\WALLISK.exe
+C:\Users\All Users\progetti\lavoro temporaneo\003\WALLISK\bin\Release\WALLISK.pdb
+C:\Users\All Users\progetti\lavoro temporaneo\003\WALLISK\bin\Release\WALLISK.xml
+C:\Users\All Users\progetti\lavoro temporaneo\003\WALLISK\bin\Release\NBitcoin.dll
+C:\Users\All Users\progetti\lavoro temporaneo\003\WALLISK\bin\Release\Newtonsoft.Json.dll
+C:\Users\All Users\progetti\lavoro temporaneo\003\WALLISK\obj\x86\Release\WALLISK.cosignForm.resources
+C:\Users\All Users\progetti\lavoro temporaneo\003\WALLISK\obj\x86\Release\WALLISK.pubkeyForm.resources
+C:\Users\All Users\progetti\lavoro temporaneo\003\WALLISK\obj\x86\Release\WALLISK.Lisk.resources
+C:\Users\All Users\progetti\lavoro temporaneo\003\WALLISK\obj\x86\Release\WALLISK.Resources.resources
+C:\Users\All Users\progetti\lavoro temporaneo\003\WALLISK\obj\x86\Release\WALLISK.vote.resources
+C:\Users\All Users\progetti\lavoro temporaneo\003\WALLISK\obj\x86\Release\WALLISK.vbproj.GenerateResource.Cache
+C:\Users\All Users\progetti\lavoro temporaneo\003\WALLISK\obj\x86\Release\WALLISK.newAddress.resources
+C:\Users\All Users\progetti\lavoro temporaneo\003\WALLISK\obj\x86\Release\WALLISK.vbprojResolveAssemblyReference.cache
+C:\Users\All Users\progetti\definitivo\WALLISK\bin\Release\WALLISK.exe.config
+C:\Users\All Users\progetti\definitivo\WALLISK\obj\x86\Release\WALLISK.exe
+C:\Users\All Users\progetti\definitivo\WALLISK\obj\x86\Release\WALLISK.xml
+C:\Users\All Users\progetti\definitivo\WALLISK\obj\x86\Release\WALLISK.pdb
+C:\Users\All Users\progetti\definitivo\WALLISK\bin\Release\WALLISK.exe
+C:\Users\All Users\progetti\definitivo\WALLISK\bin\Release\WALLISK.pdb
+C:\Users\All Users\progetti\definitivo\WALLISK\bin\Release\WALLISK.xml
+C:\Users\All Users\progetti\definitivo\WALLISK\bin\Release\NBitcoin.dll
+C:\Users\All Users\progetti\definitivo\WALLISK\bin\Release\Newtonsoft.Json.dll
+C:\Users\All Users\progetti\definitivo\WALLISK\obj\x86\Release\WALLISK.vbprojResolveAssemblyReference.cache
+C:\Users\All Users\progetti\definitivo\WALLISK\obj\x86\Release\WALLISK.cosignForm.resources
+C:\Users\All Users\progetti\definitivo\WALLISK\obj\x86\Release\WALLISK.newAddress.resources
+C:\Users\All Users\progetti\definitivo\WALLISK\obj\x86\Release\WALLISK.pubkeyForm.resources
+C:\Users\All Users\progetti\definitivo\WALLISK\obj\x86\Release\WALLISK.Lisk.resources
+C:\Users\All Users\progetti\definitivo\WALLISK\obj\x86\Release\WALLISK.Resources.resources
+C:\Users\All Users\progetti\definitivo\WALLISK\obj\x86\Release\WALLISK.secondSecret.resources
+C:\Users\All Users\progetti\definitivo\WALLISK\obj\x86\Release\WALLISK.vote.resources
+C:\Users\All Users\progetti\definitivo\WALLISK\obj\x86\Release\WALLISK.vbproj.GenerateResource.Cache

@@ -1,0 +1,17 @@
+C:\Users\All Users\progetti\definitivo\ARK\bin\Release\WAW.exe.config
+C:\Users\All Users\progetti\definitivo\ARK\bin\Release\WAW.exe
+C:\Users\All Users\progetti\definitivo\ARK\bin\Release\WAW.pdb
+C:\Users\All Users\progetti\definitivo\ARK\bin\Release\WAW.xml
+C:\Users\All Users\progetti\definitivo\ARK\bin\Release\NBitcoin.dll
+C:\Users\All Users\progetti\definitivo\ARK\bin\Release\Newtonsoft.Json.dll
+C:\Users\All Users\progetti\definitivo\ARK\obj\x86\Release\WAW.cosignForm.resources
+C:\Users\All Users\progetti\definitivo\ARK\obj\x86\Release\WAW.newAddress.resources
+C:\Users\All Users\progetti\definitivo\ARK\obj\x86\Release\WAW.pubkeyForm.resources
+C:\Users\All Users\progetti\definitivo\ARK\obj\x86\Release\WAW.Lisk.resources
+C:\Users\All Users\progetti\definitivo\ARK\obj\x86\Release\WAW.Resources.resources
+C:\Users\All Users\progetti\definitivo\ARK\obj\x86\Release\WAW.secondSecret.resources
+C:\Users\All Users\progetti\definitivo\ARK\obj\x86\Release\WAW.vote.resources
+C:\Users\All Users\progetti\definitivo\ARK\obj\x86\Release\WAW.vbproj.GenerateResource.Cache
+C:\Users\All Users\progetti\definitivo\ARK\obj\x86\Release\WAW.exe
+C:\Users\All Users\progetti\definitivo\ARK\obj\x86\Release\WAW.xml
+C:\Users\All Users\progetti\definitivo\ARK\obj\x86\Release\WAW.pdb
