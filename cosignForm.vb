@@ -29,7 +29,7 @@ Public Class cosignForm
 
             End If
             If Lisk.RadioButton2.Checked = True Then
-                url = "https://94.23.250.111/api/multisignatures/sign"
+                url = "https://arkworld.info/api/multisignatures/sign"
 
             End If
             If Lisk.RadioButton3.Checked = True Then

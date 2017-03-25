@@ -140,10 +140,11 @@ Partial Class Lisk
         '
         'TextBox2
         '
-        Me.TextBox2.Location = New System.Drawing.Point(203, 192)
+        Me.TextBox2.Location = New System.Drawing.Point(203, 408)
         Me.TextBox2.Name = "TextBox2"
         Me.TextBox2.Size = New System.Drawing.Size(100, 20)
         Me.TextBox2.TabIndex = 3
+        Me.TextBox2.Visible = False
         '
         'Timer1
         '
@@ -172,7 +173,7 @@ Partial Class Lisk
         '
         'TextBox3
         '
-        Me.TextBox3.Location = New System.Drawing.Point(203, 218)
+        Me.TextBox3.Location = New System.Drawing.Point(203, 202)
         Me.TextBox3.Name = "TextBox3"
         Me.TextBox3.Size = New System.Drawing.Size(100, 20)
         Me.TextBox3.TabIndex = 6
@@ -236,7 +237,7 @@ Partial Class Lisk
         'RadioButton1
         '
         Me.RadioButton1.AutoSize = True
-        Me.RadioButton1.Location = New System.Drawing.Point(15, 167)
+        Me.RadioButton1.Location = New System.Drawing.Point(15, 171)
         Me.RadioButton1.Name = "RadioButton1"
         Me.RadioButton1.Size = New System.Drawing.Size(14, 13)
         Me.RadioButton1.TabIndex = 30
@@ -246,17 +247,18 @@ Partial Class Lisk
         'RadioButton2
         '
         Me.RadioButton2.AutoSize = True
-        Me.RadioButton2.Location = New System.Drawing.Point(15, 195)
+        Me.RadioButton2.Location = New System.Drawing.Point(15, 411)
         Me.RadioButton2.Name = "RadioButton2"
         Me.RadioButton2.Size = New System.Drawing.Size(14, 13)
         Me.RadioButton2.TabIndex = 31
         Me.RadioButton2.TabStop = True
         Me.RadioButton2.UseVisualStyleBackColor = True
+        Me.RadioButton2.Visible = False
         '
         'RadioButton3
         '
         Me.RadioButton3.AutoSize = True
-        Me.RadioButton3.Location = New System.Drawing.Point(15, 221)
+        Me.RadioButton3.Location = New System.Drawing.Point(15, 209)
         Me.RadioButton3.Name = "RadioButton3"
         Me.RadioButton3.Size = New System.Drawing.Size(14, 13)
         Me.RadioButton3.TabIndex = 32
@@ -340,18 +342,19 @@ Partial Class Lisk
         'LinkLabel2
         '
         Me.LinkLabel2.AutoSize = True
-        Me.LinkLabel2.Location = New System.Drawing.Point(35, 199)
+        Me.LinkLabel2.Location = New System.Drawing.Point(35, 415)
         Me.LinkLabel2.Name = "LinkLabel2"
-        Me.LinkLabel2.Size = New System.Drawing.Size(112, 13)
+        Me.LinkLabel2.Size = New System.Drawing.Size(103, 13)
         Me.LinkLabel2.TabIndex = 41
         Me.LinkLabel2.TabStop = True
         Me.LinkLabel2.Tag = ""
-        Me.LinkLabel2.Text = "https://94.23.250.111"
+        Me.LinkLabel2.Text = "https://arkworld.info"
+        Me.LinkLabel2.Visible = False
         '
         'LinkLabel3
         '
         Me.LinkLabel3.AutoSize = True
-        Me.LinkLabel3.Location = New System.Drawing.Point(35, 225)
+        Me.LinkLabel3.Location = New System.Drawing.Point(35, 209)
         Me.LinkLabel3.Name = "LinkLabel3"
         Me.LinkLabel3.Size = New System.Drawing.Size(110, 13)
         Me.LinkLabel3.TabIndex = 42
@@ -561,16 +564,16 @@ Partial Class Lisk
         'Label7
         '
         Me.Label7.AutoSize = True
-        Me.Label7.Location = New System.Drawing.Point(347, 199)
+        Me.Label7.Location = New System.Drawing.Point(347, 415)
         Me.Label7.Name = "Label7"
-        Me.Label7.Size = New System.Drawing.Size(42, 13)
+        Me.Label7.Size = New System.Drawing.Size(0, 13)
         Me.Label7.TabIndex = 62
-        Me.Label7.Text = "corsaro"
+        Me.Label7.Visible = False
         '
         'Label8
         '
         Me.Label8.AutoSize = True
-        Me.Label8.Location = New System.Drawing.Point(347, 224)
+        Me.Label8.Location = New System.Drawing.Point(347, 208)
         Me.Label8.Name = "Label8"
         Me.Label8.Size = New System.Drawing.Size(24, 13)
         Me.Label8.TabIndex = 63

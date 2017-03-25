@@ -22,7 +22,7 @@ Public Class vote
 
         End If
         If Lisk.RadioButton2.Checked = True Then
-            url1 = "https://94.23.250.111/"
+            url1 = "https://arkworld.info/"
 
         End If
         If Lisk.RadioButton3.Checked = True Then

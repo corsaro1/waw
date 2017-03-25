@@ -54,7 +54,7 @@ Public Class secondSecret
 
             End If
             If Lisk.RadioButton2.Checked = True Then
-                url = "https://94.23.250.111/api/signatures"
+                url = "https://arkworld.info/api/signatures"
 
             End If
             If Lisk.RadioButton3.Checked = True Then

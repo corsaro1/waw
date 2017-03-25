@@ -38,7 +38,7 @@ Public Class newAddress
 
         End If
         If Lisk.RadioButton2.Checked = True Then
-            url = "https://94.23.250.111/api/transactions"
+            url = "https://arkworld.info/api/transactions"
 
         End If
         If Lisk.RadioButton3.Checked = True Then
