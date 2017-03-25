@@ -33,7 +33,7 @@ Public Class cosignForm
 
             End If
             If Lisk.RadioButton3.Checked = True Then
-                url = "http://127.0.0.1:4001api/multisignatures/sign"
+                url = "http://127.0.0.1:4001/api/multisignatures/sign"
 
             End If
             If Lisk.RadioButton4.Checked = True Then
