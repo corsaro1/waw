@@ -42,7 +42,7 @@ Public Class newAddress
 
         End If
         If Lisk.RadioButton3.Checked = True Then
-            url = "http://127.0.0.1:4001/api/accounts/open"
+            url = "http://127.0.0.1:4001/api/transactions"
 
         End If
         If Lisk.RadioButton4.Checked = True Then
@@ -107,6 +107,7 @@ Public Class newAddress
         '  MsgBox("DO NOT SHARE THIS SCREEN. IT CONTAINS YOUR SEED" & vbCrLf & vbCrLf & xml & " will be sent to " & url)
 
         Dim arr As Byte() = System.Text.Encoding.UTF8.GetBytes(xml)
+        ' MsgBox(url)
         request = DirectCast(HttpWebRequest.Create(url), HttpWebRequest)
         request.Method = "PUT"
         request.ContentType = "application/json"
@@ -244,6 +245,26 @@ fooerror:
 
         Dim url1 As String = "https://api.arknode.net/"
 
+
+
+        If Lisk.RadioButton1.Checked = True Then
+            url1 = "https://api.arknode.net/"
+
+
+        End If
+        If Lisk.RadioButton2.Checked = True Then
+            url1 = "https://arkworld.info/"
+
+        End If
+        If Lisk.RadioButton3.Checked = True Then
+            url1 = "http://127.0.0.1:4001/"
+
+        End If
+
+
+
+
+
         '  Dim url As String = "https://api.arknode.net/api/accounts/generatePublicKey"
         'Dim url As String = url1 + "api/accounts/generatePublicKey"
         '/api/accounts/getPublicKey
@@ -255,7 +276,7 @@ fooerror:
         Dim responsex As HttpWebResponse = Nothing
 
         Dim readerx As StreamReader
-
+        '  MsgBox(url & "?address=" & testoxxxx)
         request = DirectCast(WebRequest.Create(url & "?address=" & testoxxxx), HttpWebRequest)
         responsex = DirectCast(request.GetResponse(), HttpWebResponse)
         readerx = New StreamReader(responsex.GetResponseStream())
