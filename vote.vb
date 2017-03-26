@@ -26,7 +26,7 @@ Public Class vote
 
         End If
         If Lisk.RadioButton3.Checked = True Then
-            url1 = "http://127.0.0.1:4001"
+            url1 = "http://127.0.0.1:4001/"
 
         End If
         If Lisk.RadioButton4.Checked = True Then
@@ -1112,7 +1112,7 @@ fooerror:
         Dim senderId As String = Lisk.senderId
         ' Dim url As String = "https://api.arknode.net/api/accounts/delegates"
 
-        Dim posturl As String = "api/accounts/delegates"
+        Dim posturl As String = "api/accounts/delegates/"
 
         'Dim url As String = "https://api.arknode.net/api/accounts/delegates"
         Dim url As String = url1 + posturl
@@ -1128,7 +1128,7 @@ fooerror:
         Dim rawresp As String
 
 
-        request = DirectCast(WebRequest.Create("https://api.arknode.net/api/accounts/delegates/?address=" & senderId), HttpWebRequest)
+        request = DirectCast(WebRequest.Create(url + "?address=" & senderId), HttpWebRequest)
         response = DirectCast(request.GetResponse(), HttpWebResponse)
         reader = New StreamReader(response.GetResponseStream())
 
