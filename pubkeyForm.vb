@@ -153,7 +153,17 @@ Public Class pubkeyForm
         Dim seed As Object
         prompt = "What's your seed?"
         seed = InputBox(prompt, title, defaultResponse)
-        If seed Is "" Then GoTo fooerror2
+        If seed Is "" Then GoTo Fooerror2
+
+
+
+
+        Dim seed2 As Object
+        prompt = "What's your second Pass?"
+        seed2 = InputBox(prompt, title, defaultResponse)
+        If seed2 Is "" Then GoTo Fooerror2
+
+
 
         '    request = DirectCast(WebRequest.Create("https://api.arknode.net/api/accounts/delegates/?address=" & senderId), HttpWebRequest)
         '  response = DirectCast(request.GetResponse(), HttpWebResponse)
@@ -167,7 +177,7 @@ Public Class pubkeyForm
         '
         '
 
-       
+
 
         Dim lifetime As Object
         prompt = "What's the lifetime?"
@@ -187,7 +197,7 @@ Public Class pubkeyForm
 
         Dim votelist As String = "all delegates here"
 
-        Dim xml As String = "{" & Chr(34) & "secret" & Chr(34) & ":" & Chr(34) & seed & Chr(34) & "," & Chr(34) & "lifetime" & Chr(34) & ":" & lifetime & "," & Chr(34) & "min" & Chr(34) & ":" & min & "," & Chr(34) & "keysgroup" & Chr(34) & ":[" & LineOfText & "]" & "}"
+        Dim xml As String = "{" & Chr(34) & "secret" & Chr(34) & ":" & Chr(34) & seed & Chr(34) & "," & Chr(34) & "secondSecret" & Chr(34) & ":" & Chr(34) & seed2 & Chr(34) & "," & Chr(34) & "lifetime" & Chr(34) & ":" & lifetime & "," & Chr(34) & "min" & Chr(34) & ":" & min & "," & Chr(34) & "keysgroup" & Chr(34) & ":[" & LineOfText & "]" & "}"
 
         '  Dim xml As String = "{" & Chr(34) & "secret" & Chr(34) & ":" & Chr(34) & seed & Chr(34) & "," & Chr(34) & "publicKey" & Chr(34) & ":" & Chr(34) & testo2 & Chr(34) & "," & Chr(34) & "delegates" & Chr(34) & ":[" & Chr(34) & "+" & pubkey1 & Chr(34) & "," & Chr(34) & "+" & pubkey2 & Chr(34) & "," & Chr(34) & "+" & pubkey3 & Chr(34) & "," & Chr(34) & "+" & pubkey4 & Chr(34) & "," & Chr(34) & "+" & pubkey5 & Chr(34) & "," & Chr(34) & "+" & pubkey6 & Chr(34) & "," & Chr(34) & "+" & pubkey7 & Chr(34) & "," & Chr(34) & "+" & pubkey8 & Chr(34) & "]" & "}"
 
